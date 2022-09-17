@@ -1,0 +1,43 @@
+{
+    "background": {
+        "alpha": 255,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/959420455859671070\/1020776855005052958\/Drawing_190.png",
+        "blur_radius": 7,
+        "overlay_alpha": 80
+    },
+    "colors": {
+        "brand": -7037226,
+        "brand_500": -7037226,
+        "brand_600": 2091890656,
+        "brand_new": 2091890656,
+        "flexInputIconColor": -16777216,
+        "link": -1268783,
+        "link_light": -5261344,
+        "material_grey_50": -1726276575,
+        "uikit_btn_bg_color_selector_background_accent_light": -1760160226,
+        "uikit_btn_bg_color_selector_brand": -5387090,
+        "uikit_btn_bg_color_selector_green": -7620868,
+        "uikit_btn_bg_color_selector_red": -1462579,
+        "uikit_btn_bg_color_selector_secondary_light": -1323623391,
+        "uikit_btn_compound_color_selector_light": -7037226
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -2645796,
+        "drawable_overlay_channels_active_dark": -4605237,
+        "drawable_overlay_channels_selected_dark": -1701536042,
+        "drawable_overlay_channels_selected_light": -1701536042
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "Err0r",
+        "name": "Reaper-vamp",
+        "version": "0.0.1"
+    },
+    "simple_colors": {
+        "accent": -1863756,
+        "background": 823925788,
+        "background_secondary": 555161367,
+        "mention_highlight": 2077671393
+    },
+    "raws": {}
+}
